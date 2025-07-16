@@ -297,7 +297,7 @@ def main():
         "Player ID Key.csv",
         "Apps/Fantrax_Leagues_Dashboard/Fantrax_Leagues_Dashboard/Player ID Key.csv",
         "../Player ID Key.csv",
-        "https://raw.githubusercontent.com/bamc021/Fantrax_Leagues_Dashboard/refs/heads/main/Player%20ID%20Key.csv"
+        "https://raw.githubusercontent.com/bamc021/MLB_Dyn_Ineligibility_Checker/refs/heads/main/Player%20ID%20Key.csv"
     ]
     
     file_path = None
